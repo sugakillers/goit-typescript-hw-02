@@ -1,0 +1,7 @@
+.imgList{
+    display: flex;
+    flex-wrap: wrap;
+    margin-bottom: 16px;
+    padding: 4px 120px;
+    gap: 16px;
+}
