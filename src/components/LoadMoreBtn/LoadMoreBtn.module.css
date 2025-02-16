@@ -10,3 +10,8 @@
     border-radius: 5px;
     cursor: alias;
   }
+
+  .loadBtnDiv{
+    display: flex;
+    justify-content: center;
+}

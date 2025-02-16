@@ -23,7 +23,7 @@
     height: 100%;
   }
   
-  .img_descr {
+  .imgDescription {
     position: absolute;
     bottom: 0;
     width: 100%;
@@ -36,8 +36,8 @@
     padding-inline: 24px;
     font-size: 16px;
   }
-  
-  .img_descr p {
+   
+  .imgDescription p {
     display: flex;
     align-items: center;
     gap: 12px;
